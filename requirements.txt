@@ -1,0 +1,13 @@
+openai
+langchain
+dotenv
+ipykernel
+langchain_community
+langchain_openai
+langchain_classic
+tiktoken
+pandas
+docarray
+chromadb
+lark
+wikipedia
